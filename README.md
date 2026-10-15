@@ -1,8 +1,8 @@
-\# Taller de Análisis Descriptivo - Online Retail
+# Taller de Análisis Descriptivo - Online Retail
 
 
 
-\## Descripción
+## Descripción
 
 
 
@@ -14,23 +14,23 @@ El trabajo da continuidad a la actividad anterior de obtención de datos, en la 
 
 
 
-\## Objetivos
+## Objetivos
 
 
 
-\- Aplicar técnicas de análisis descriptivo a un conjunto de datos empresarial.
+- Aplicar técnicas de análisis descriptivo a un conjunto de datos empresarial.
 
-\- Calcular estadísticas descriptivas de las variables comerciales.
+- Calcular estadísticas descriptivas de las variables comerciales.
 
-\- Identificar tendencias temporales y diferencias entre productos y países.
+- Identificar tendencias temporales y diferencias entre productos y países.
 
-\- Generar visualizaciones e interpretar los resultados.
+- Generar visualizaciones e interpretar los resultados.
 
-\- Formular recomendaciones a partir de los hallazgos.
+- Formular recomendaciones a partir de los hallazgos.
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -46,79 +46,79 @@ El archivo utilizado es `online\_retail\_limpio.csv`, generado durante la activi
 
 
 
-\## Análisis realizados
+## Análisis realizados
 
 
 
-\- Exploración y verificación de la calidad de los datos.
+- Exploración y verificación de la calidad de los datos.
 
-\- Estadísticas descriptivas.
+- Estadísticas descriptivas.
 
-\- Evolución mensual de las ventas.
+- Evolución mensual de las ventas.
 
-\- Productos con mayores cantidades vendidas.
+- Productos con mayores cantidades vendidas.
 
-\- Países con mayores ventas registradas.
+- Países con mayores ventas registradas.
 
-\- Distribución de los precios unitarios.
+- Distribución de los precios unitarios.
 
-\- Comparación entre unidades vendidas e ingresos por producto.
+- Comparación entre unidades vendidas e ingresos por producto.
 
-\- Participación porcentual de las ventas por país.
+- Participación porcentual de las ventas por país.
 
-\- Conclusiones y recomendaciones empresariales.
-
-
-
-\## Herramientas utilizadas
+- Conclusiones y recomendaciones empresariales.
 
 
 
-\- Python
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- Seaborn
-
-\- Google Colab
-
-\- GitHub
+## Herramientas utilizadas
 
 
 
-\## Archivos del proyecto
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- Seaborn
+
+- Google Colab
+
+- GitHub
 
 
 
-\- `Informe\_Analisis\_Descriptivo.ipynb`: notebook con el código, las explicaciones, los resultados y las visualizaciones.
-
-\- `online\_retail\_limpio.csv`: conjunto de datos procesado utilizado para el análisis.
-
-\- `README.md`: documentación general del proyecto.
+## Archivos del proyecto
 
 
 
-\## Cómo ejecutar el proyecto
+- `Informe\_Analisis\_Descriptivo.ipynb`: notebook con el código, las explicaciones, los resultados y las visualizaciones.
+
+- `online\_retail\_limpio.csv`: conjunto de datos procesado utilizado para el análisis.
+
+- `README.md`: documentación general del proyecto.
 
 
 
-1\. Descarga el notebook y el archivo `online\_retail\_limpio.csv`.
-
-2\. Abre el notebook en Google Colab.
-
-3\. Sube el archivo CSV al entorno de Colab.
-
-4\. Verifica que el archivo esté disponible en `/content/online\_retail\_limpio.csv`.
-
-5\. Ejecuta las celdas en orden o utiliza la opción de ejecutar todas las celdas.
+## Cómo ejecutar el proyecto
 
 
 
-\## Fuente teórica
+1. Descarga el notebook y el archivo `online\_retail\_limpio.csv`.
+
+2. Abre el notebook en Google Colab.
+
+3. Sube el archivo CSV al entorno de Colab.
+
+4. Verifica que el archivo esté disponible en `/content/online\_retail\_limpio.csv`.
+
+5. Ejecuta las celdas en orden o utiliza la opción de ejecutar todas las celdas.
+
+
+
+## Fuente teórica
 
 
 
